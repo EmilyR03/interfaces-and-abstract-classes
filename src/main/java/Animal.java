@@ -1,3 +1,5 @@
 public abstract class Animal {
-    public abstract makeSound() {}
+
+    public abstract void makeSound();
+
 }
